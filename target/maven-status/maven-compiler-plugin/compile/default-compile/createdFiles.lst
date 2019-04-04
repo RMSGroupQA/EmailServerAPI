@@ -1,0 +1,10 @@
+com\qa\sendemail\domain\Employee.class
+com\qa\sendemail\domain\Booking.class
+com\qa\sendemail\domain\Room.class
+com\qa\sendemail\Constants.class
+com\qa\sendemail\service\EmailServiceImpl.class
+com\qa\sendemail\controller\EmployeeController.class
+com\qa\sendemail\SendEmailApplication.class
+com\qa\sendemail\service\EmailService.class
+com\qa\sendemail\controller\BookingController.class
+com\qa\sendemail\domain\MassMail.class
